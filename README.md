@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jamie-Lee McLeish
-- 👀 I’m interested in learning new things, Titanic, reading, playing games, coding, watching MMA or Boxing
+- 👀 I’m interested in learning new things, Titanic, reading, playing games, coding, finding new restaurants with my partner, chilling with our cats, and watching MMA or Boxing.
 - 🧑‍💻 My Programming language of choice is Golang
 - 📫 Feel free to reach out to me on Slack.
 
